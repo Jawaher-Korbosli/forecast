@@ -1,0 +1,7 @@
+.fetchingDataModalBox {
+  text-align: center;
+}
+
+.fetchingDataModalBox .loadingDataText {
+  margin-bottom: 20px;
+}

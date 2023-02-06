@@ -1,0 +1,17 @@
+.fetchingDataModalBox {
+  text-align: center;
+}
+
+.fetchingDataModalBox .loadingDataText {
+  margin-bottom: 20px;
+}
+
+.closeModalButton {
+  width: 100px;
+  height: 35px;
+  background: rebeccapurple;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  cursor: pointer;
+}

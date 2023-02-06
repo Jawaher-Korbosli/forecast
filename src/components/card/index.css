@@ -1,0 +1,52 @@
+.cardComp {
+  background: linear-gradient(90deg, #5936b4 0%, #362a84 103.55%);
+  box-shadow: -1.28023px 1.28023px 1.28023px rgba(0, 0, 0, 0.25),
+    -5.12091px 5.12091px 6.40113px rgba(18, 6, 67, 0.3);
+  border-radius: 20px;
+  padding: 20px 10px;
+  color: white;
+  width: 350px;
+  max-width: 100%;
+  position: relative;
+  margin: auto;
+  user-select: none;
+  cursor: grab;
+  /* transition: 0.3s ease-in-out; */
+}
+
+/* .cardComp:hover {
+  transform: translateY(-6px);
+} */
+
+.degree {
+  font-size: 80px;
+  letter-spacing: 0.5px;
+  color: white;
+}
+.unitSymbol {
+  font-size: 50px;
+}
+.date {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 22px;
+  color: #ebebf599;
+}
+
+.topDetails,
+.bottomDetails {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.bottomDetails {
+  margin-top: 7px;
+}
+.city {
+  font-size: 16px;
+}
+
+.description {
+  font-size: 13px;
+}

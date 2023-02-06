@@ -4,6 +4,10 @@
 
 Install the needed dependencies
 
+### `.env`
+
+Add  your API key in .env file
+
 ### `npm start`
 
 Runs the app in the development mode.\

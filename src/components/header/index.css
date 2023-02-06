@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+.capitalSelect {
+  width: 250px;
+}
+
+.tempUnitSelect {
+  width: 160px;
+}
